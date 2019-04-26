@@ -1,0 +1,26 @@
+{
+  "name": "bamazonSupervisor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonSupervisor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeartis/bamazonSupervisor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromeartis/bamazonSupervisor/issues"
+  },
+  "homepage": "https://github.com/jeromeartis/bamazonSupervisor#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.18.11"
+  }
+}
