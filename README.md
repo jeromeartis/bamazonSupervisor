@@ -1,7 +1,7 @@
 # bamazonSupervisor
 
 
-![Alt text](/files/selectViewProduct.png? raw=true "View Product")
+![Alt text](/files/selectViewProduct.png "View Product")
 
 
 ![image](/./files/showTotalProfit.png)
