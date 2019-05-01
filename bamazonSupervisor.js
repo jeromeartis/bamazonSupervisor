@@ -19,7 +19,7 @@ function start() {
   .prompt([{
       type: 'list',
       message: 'Select from list below what action you would like to complete.',
-      choices: ['Create New Department','View Product Sales by Department'],
+      choices: ['View Product Sales by Department','Create New Department'],
       name: "action"
   }
 ]).then(function (response) {
